@@ -1,0 +1,251 @@
+{
+  "id": "1234567890",
+    "resturants": [
+      {
+        "restaurantName": "The Cheese Cake Factory",
+        "menu": [
+           {
+             "id": "11111111",
+             "productName": "The Cheese Cake Factory",
+             "productDescription": "CAESAR SALAD",
+             "location": "Cananda",
+             "image": "smartphone.jpg",
+             "price": "$599.99",
+             "quantity": 0
+           },
+           {
+             "id": "22222222",
+             "productName": "The Cheese Cake Factory",
+             "productDescription": "LUNCH CHICKEN SPECIALS",
+             "location": "Electronics",
+             "image": "laptop.jpg",
+             "price": "$7.99",
+             "quantity": 0
+           },
+           {
+             "id": "11111111",
+             "productName": "Smartphone",
+             "productDescription": "High-performance smartphone with advanced features.",
+             "location": "Electronics",
+             "image": "smartphone.jpg",
+             "price": "$599.99",
+             "quantity": 0
+           },
+           {
+             "id": "22222222",
+             "productName": "Laptop",
+             "productDescription": "Thin and lightweight laptop for work and entertainment.",
+             "location": "Electronics",
+             "image": "laptop.jpg",
+             "price": "$999.99",
+             "quantity": 300
+           } 
+         ]
+       },
+       {
+        "restaurantName": "The Cheese Cake Factory",
+        "menu": [
+           {
+             "id": "11111111",
+             "productName": "The Cheese Cake Factory",
+             "productDescription": "CAESAR SALAD",
+             "location": "Cananda",
+             "image": "smartphone.jpg",
+             "price": "$599.99",
+             "quantity": 0
+           },
+           {
+             "id": "22222222",
+             "productName": "The Cheese Cake Factory",
+             "productDescription": "LUNCH CHICKEN SPECIALS",
+             "location": "Electronics",
+             "image": "laptop.jpg",
+             "price": "$7.99",
+             "quantity": 0
+           },
+           {
+             "id": "11111111",
+             "productName": "Smartphone",
+             "productDescription": "High-performance smartphone with advanced features.",
+             "location": "Electronics",
+             "image": "smartphone.jpg",
+             "price": "$599.99",
+             "quantity": 0
+           },
+           {
+             "id": "22222222",
+             "productName": "Laptop",
+             "productDescription": "Thin and lightweight laptop for work and entertainment.",
+             "location": "Electronics",
+             "image": "laptop.jpg",
+             "price": "$999.99",
+             "quantity": 300
+           } 
+         ]
+       },
+       {
+        "restaurantName": "The Cheese Cake Factory",
+        "menu": [
+           {
+             "id": "11111111",
+             "productName": "The Cheese Cake Factory",
+             "productDescription": "CAESAR SALAD",
+             "location": "Cananda",
+             "image": "smartphone.jpg",
+             "price": "$599.99",
+             "quantity": 0
+           },
+           {
+             "id": "22222222",
+             "productName": "The Cheese Cake Factory",
+             "productDescription": "LUNCH CHICKEN SPECIALS",
+             "location": "Electronics",
+             "image": "laptop.jpg",
+             "price": "$7.99",
+             "quantity": 0
+           },
+           {
+             "id": "11111111",
+             "productName": "Smartphone",
+             "productDescription": "High-performance smartphone with advanced features.",
+             "location": "Electronics",
+             "image": "smartphone.jpg",
+             "price": "$599.99",
+             "quantity": 0
+           },
+           {
+             "id": "22222222",
+             "productName": "Laptop",
+             "productDescription": "Thin and lightweight laptop for work and entertainment.",
+             "location": "Electronics",
+             "image": "laptop.jpg",
+             "price": "$999.99",
+             "quantity": 300
+           } 
+         ]
+       },
+       {
+        "restaurantName": "The Cheese Cake Factory",
+        "menu": [
+           {
+             "id": "11111111",
+             "productName": "The Cheese Cake Factory",
+             "productDescription": "CAESAR SALAD",
+             "location": "Cananda",
+             "image": "smartphone.jpg",
+             "price": "$599.99",
+             "quantity": 0
+           },
+           {
+             "id": "22222222",
+             "productName": "The Cheese Cake Factory",
+             "productDescription": "LUNCH CHICKEN SPECIALS",
+             "location": "Electronics",
+             "image": "laptop.jpg",
+             "price": "$7.99",
+             "quantity": 0
+           },
+           {
+             "id": "11111111",
+             "productName": "Smartphone",
+             "productDescription": "High-performance smartphone with advanced features.",
+             "location": "Electronics",
+             "image": "smartphone.jpg",
+             "price": "$599.99",
+             "quantity": 0
+           },
+           {
+             "id": "22222222",
+             "productName": "Laptop",
+             "productDescription": "Thin and lightweight laptop for work and entertainment.",
+             "location": "Electronics",
+             "image": "laptop.jpg",
+             "price": "$999.99",
+             "quantity": 300
+           } 
+         ]
+       },
+       {
+        "restaurantName": "The Cheese Cake Factory",
+        "menu": [
+           {
+             "id": "11111111",
+             "productName": "The Cheese Cake Factory",
+             "productDescription": "CAESAR SALAD",
+             "location": "Cananda",
+             "image": "smartphone.jpg",
+             "price": "$599.99",
+             "quantity": 0
+           },
+           {
+             "id": "22222222",
+             "productName": "The Cheese Cake Factory",
+             "productDescription": "LUNCH CHICKEN SPECIALS",
+             "location": "Electronics",
+             "image": "laptop.jpg",
+             "price": "$7.99",
+             "quantity": 0
+           },
+           {
+             "id": "11111111",
+             "productName": "Smartphone",
+             "productDescription": "High-performance smartphone with advanced features.",
+             "location": "Electronics",
+             "image": "smartphone.jpg",
+             "price": "$599.99",
+             "quantity": 0
+           },
+           {
+             "id": "22222222",
+             "productName": "Laptop",
+             "productDescription": "Thin and lightweight laptop for work and entertainment.",
+             "location": "Electronics",
+             "image": "laptop.jpg",
+             "price": "$999.99",
+             "quantity": 300
+           } 
+         ]
+       },
+       {
+        "restaurantName": "The Cheese Cake Factory",
+        "menu": [
+           {
+             "id": "11111111",
+             "productName": "The Cheese Cake Factory",
+             "productDescription": "CAESAR SALAD",
+             "location": "Cananda",
+             "image": "smartphone.jpg",
+             "price": "$599.99",
+             "quantity": 0
+           },
+           {
+             "id": "22222222",
+             "productName": "The Cheese Cake Factory",
+             "productDescription": "LUNCH CHICKEN SPECIALS",
+             "location": "Electronics",
+             "image": "laptop.jpg",
+             "price": "$7.99",
+             "quantity": 0
+           },
+           {
+             "id": "11111111",
+             "productName": "Smartphone",
+             "productDescription": "High-performance smartphone with advanced features.",
+             "location": "Electronics",
+             "image": "smartphone.jpg",
+             "price": "$599.99",
+             "quantity": 0
+           },
+           {
+             "id": "22222222",
+             "productName": "Laptop",
+             "productDescription": "Thin and lightweight laptop for work and entertainment.",
+             "location": "Electronics",
+             "image": "laptop.jpg",
+             "price": "$999.99",
+             "quantity": 300
+           } 
+         ]
+       }
+    ]
+}
